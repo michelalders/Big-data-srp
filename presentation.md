@@ -178,4 +178,3 @@ Big data: onschendbaarheid van personen regelen.
 We kunnen profiteren van de big data revolutie.
 
 De wereld doorgronden door deze te kwantificeren = *dataficeren*
- 
