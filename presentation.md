@@ -146,7 +146,7 @@ Dit heeft grote gevolgen voor individuen.
 Specifieke expertise doet minder ter zake omdat het om waarschijnlijkheden gaat.
 
 Moneyball: honkbalscouts worden overtroefd door statistici.
-Expertise 
+ 
 
 !
 
@@ -171,6 +171,8 @@ En... big data gaat over de kans ... de kans
 !
 
 Drukpers: vrijheid van meningsuiting regelen
+
+
 Big data: onschendbaarheid van personen regelen.
 
 !
