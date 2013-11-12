@@ -197,6 +197,34 @@ De wereld doorgronden door deze te kwantificeren = *dataficeren*
 
 !
 
+
+####Vrijdag is er in de middag een borrel
+
+!
+
+
+####Mededelingen#####
+
+Morgen presentaties: 
+
+####09.20 uur in 02 A21#####
+
+Ruimte beschikbaar tot 12.50 uur
+
+!
+
+####Filmen sfeer SRP#####
+Wie wil een sfeerfilm maken van deze SRP module? 
+
+2-3 minuten?
+
+!
+
+Een kant en klare video van 2-3 minuten zou mooi zijn en dat ergens in het beeld wordt aangeven om welke SRP het gaat. Dit is voor op de borrel. Zo krijgen de andere studenten (en docenten) mee wat er in de andere SRP's allemaal gebeurd. 
+Natuurlijk leuk om uit te besteden aan een van jullie studenten. Wanneer alles donderdagavond wordt upgeload op Vimeo kan er een mooie playlist van worden gemaakt. Ik denk nog na over tags (CMD SRP 1314) of een kanaal speciaal voor aanmaken op Vimeo. 
+
+!
+
 ###N=Alles###
 
 'Big data' betekent dat je alles meet van een bepaald iets.
@@ -210,6 +238,14 @@ De wereld doorgronden door deze te kwantificeren = *dataficeren*
 2. Top down: welk concept kun je verzinnen en welke data zou er voor nodig zijn 
 
 !
+
+####De combinatie van databronnen maakt big data krachtig
+
+Hoe varieert een databron?
+Hoe kan het gedrag veranderen?
+
+!
+
 
 
 
