@@ -2,7 +2,7 @@
 
 !
 
-Informatie inzetten op nieuwe manieren om nieuwe inzichten, waardevollen goederen en diensten te krijgen.
+Informatie inzetten op nieuwe manieren om nieuwe inzichten, waardevolle goederen en diensten te krijgen.
 
 !
 
@@ -49,13 +49,14 @@ Richard J. Aldrich (NRC Handelsblad 8 november 2013):
 
 !
 
-Voorbeeldjes van Big data
+####Voorbeeldjes van Big data#####
 
 - Spamfilters; passen zich automatisch aan
 - Datingsites; welke profielen zater achter welke succesvolle matches
 - Autocorrectiefunctie in smartphones voegt nieuwe woorden toe
 
-Het gaat om voorspellingen, om de kans dat
+
+####Het gaat om voorspellingen, om de kans dat####
 
 - een mailtje spam is
 - profielen op elkaar lijken
@@ -64,7 +65,8 @@ Het gaat om voorspellingen, om de kans dat
 !
 
 De aselecte steekproef; voorspellen behapbaar maken.
-De wereld meten zonder over de middelen te beschikken om te analyseren wat je aan data verzamelt.
+De wereld meten met minder middelen.
+Minder data = minder krachtige analyse nodig.
 
 !
 
@@ -83,9 +85,11 @@ Maar... als er nieuwe markers ontdekt worden...
 !
 
 
-De wereld meten zonder over de **middelen** te beschikken om te analyseren wat je aan data verzamelt.
+De wereld meten met minder **middelen** 
+
 
 Deze middelen hebben we ondertussen wel (computers)
+
 
 Computers nemen overigens steeds meer taken van ons over.
 
@@ -131,13 +135,16 @@ De motor loopt de kans defect te raken op grond van de trillingen of warmte.
 
 Verschuiving van causaliteit naar correlatie.
 
+!
+
+
 Jacht op schatten aan informatie.
 
 Alle gegevensverzamelingen hebben intrinsieke, verborgen, nog niet ontgonnen waarde. 
 
 
 
-![Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
+!Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
 
 !
 
@@ -165,12 +172,15 @@ Privacy ligt open en bloot
 !
 
 En... big data gaat over de kans ... de kans
+
 - op een hartaanval (verzekeringspremie)
 - op een misdrijf (preventief arresteren)
 
 !
 
 Drukpers: vrijheid van meningsuiting regelen
+
+!
 
 
 Big data: onschendbaarheid van personen regelen.
@@ -180,3 +190,26 @@ Big data: onschendbaarheid van personen regelen.
 We kunnen profiteren van de big data revolutie.
 
 De wereld doorgronden door deze te kwantificeren = *dataficeren*
+
+!
+
+###Woensdag 13 november 2013###
+
+!
+
+###N=Alles###
+
+'Big data' betekent dat je alles meet van een bepaald iets.
+
+!
+
+###N=Alles = dataficeren###
+
+
+1. Bottom up: welke data bronnen zijn er en wat kun je ermee (concept)
+2. Top down: welk concept kun je verzinnen en welke data zou er voor nodig zijn 
+
+!
+
+
+
