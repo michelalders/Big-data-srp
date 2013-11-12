@@ -198,22 +198,21 @@ De wereld doorgronden door deze te kwantificeren = *dataficeren*
 !
 
 
-####Vrijdag is er in de middag een borrel
+####Vrijdag as is er in de middag een borrel
 
 !
 
 
-####Mededelingen#####
+####Mededeling#####
 
 Morgen presentaties: 
 
-####09.20 uur in 02 A21#####
+####09.20 - 12.50 uur in 02 A21#####
 
-Ruimte beschikbaar tot 12.50 uur
 
 !
 
-####Filmen sfeer SRP#####
+####Sfeerfilm#####
 Wie wil een sfeerfilm maken van deze SRP module? 
 
 2-3 minuten?
@@ -241,10 +240,17 @@ Natuurlijk leuk om uit te besteden aan een van jullie studenten. Wanneer alles d
 
 ####De combinatie van databronnen maakt big data krachtig
 
-Hoe varieert een databron?
-Hoe kan het gedrag veranderen?
+- Hoe varieert een databron. Als x, dan ...]
+- Hoe kan het gedrag veranderen?
+
 
 !
+
+####Oplevering
+
+1. presentatie
+2. document
+
 
 
 
