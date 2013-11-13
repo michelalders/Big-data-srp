@@ -255,8 +255,10 @@ Natuurlijk leuk om uit te besteden aan een van jullie studenten. Wanneer alles d
 1. presentatie
 2. document
 
+!
 
-![Dit is een afbeelding](IMG_0827.jpg)
+
+![](IMG_0827.jpg) 
 
 
 
