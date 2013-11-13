@@ -256,6 +256,8 @@ Natuurlijk leuk om uit te besteden aan een van jullie studenten. Wanneer alles d
 2. document
 
 
+![Dit is een afbeelding](IMG_0827.jpg)
+
 
 
 
