@@ -240,8 +240,11 @@ Natuurlijk leuk om uit te besteden aan een van jullie studenten. Wanneer alles d
 
 ####De combinatie van databronnen maakt big data krachtig
 
-- Hoe varieert een databron. Als x, dan ...]
-- Hoe kan het gedrag veranderen?
+
+- Welke sensoren zijn nodig (if any)
+- Hoe varieert een databron. Als x, dan ...
+- Hoe goed kun je iets voorspellen? 
+- Hoe kun je met een voorspelling gedrag (bij)sturen
 
 
 !
