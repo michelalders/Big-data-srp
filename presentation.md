@@ -144,7 +144,8 @@ Alle gegevensverzamelingen hebben intrinsieke, verborgen, nog niet ontgonnen waa
 
 
 
-!Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
+[Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
+
 
 !
 
@@ -243,7 +244,7 @@ Natuurlijk leuk om uit te besteden aan een van jullie studenten. Wanneer alles d
 
 - Welke sensoren zijn nodig (if any)
 - Hoe varieert een databron. Als x, dan ...
-- Hoe goed kun je iets voorspellen? 
+- Hoe goed kun je iets voorspellen?  	
 - Hoe kun je met een voorspelling gedrag (bij)sturen
 
 
